@@ -36,6 +36,7 @@
 ![image](https://user-images.githubusercontent.com/80517119/114846212-6cb26880-9e17-11eb-8485-751fac979c5a.png)
 
 - 실행 결과 
+
 ![image](https://user-images.githubusercontent.com/80517119/114846518-bf8c2000-9e17-11eb-997f-3bde8492a4b2.png)
 
 ## 2-2. 시간 복잡도 (작성자 : 한현진)
